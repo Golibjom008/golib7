@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;}
+ .bova{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+ }   
+.ota{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+.ota3{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.b{
+ display: flex;
+ padding-left: 15px;
+   
+}
+
+
+.otan{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2n{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+.ota3n{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.bn{
+ display: flex;
+ padding-left: 15px;
+   
+}
+
+.otam{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2m{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+.ota3m{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.bm{
+ display: flex;
+ padding-left: 15px;
+   
+}
+.otaj{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2j{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+.ota3j{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.bj{
+ display: flex;
+ padding-left: 15px;
+   
+}
+
+.otao{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2o{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 40px;
+    height: 40px;
+
+}
+.ota3o{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.bo{
+ display: flex;
+ padding-left: 15px;
+   
+}
+
+.otab{
+    width: 200px;
+    height: 220px;
+    border: 2px  #f3f3f3 solid;
+    border-radius: 15px;
+}
+.ota2b{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    width: 50px;
+    height: 40px;
+
+}
+.ota3b{
+    padding-left: 15px;
+    filter: opacity(70%);
+}
+.bb{
+ display: flex;
+ padding-left: 15px;
+   
+}
